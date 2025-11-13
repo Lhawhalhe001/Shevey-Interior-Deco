@@ -105,12 +105,12 @@ const Home = () => {
           className="absolute inset-0 bg-cover bg-center"
           style={{ backgroundImage: `url(${heroImage})` }}
         >
-          <div className="absolute inset-0 bg-gradient-to-b from-primary/60 via-primary/40 to-background/90" />
+          <div className="absolute inset-0 bg-gradient-to-b from-primary/60 via-primary/40 to-background/20" />
         </div>
 
         <div className="relative z-10 text-center px-6 animate-fade-in-up">
           <h1 className="text-5xl md:text-7xl font-serif font-bold mb-6 text-background">
-            Shevey Interior Deco
+            Shevey Interior Design
           </h1>
           <p className="text-xl md:text-2xl mb-8 text-background/90 max-w-2xl mx-auto">
             Transforming Spaces with Art & Elegance
@@ -132,7 +132,7 @@ const Home = () => {
             Where Vision Meets Design
           </h2>
           <p className="text-lg text-muted-foreground leading-relaxed mb-6">
-            At Shevey Interior Deco, we believe that every space tells a story. Our mission is to
+            At Shevey Interior Design, we believe that every space tells a story. Our mission is to
             craft environments that reflect your unique personality while maintaining the highest
             standards of elegance and functionality.
           </p>
@@ -398,8 +398,7 @@ const Home = () => {
                       href="mailto:contact@sheveyinterior.com"
                       className="text-muted-foreground hover:text-accent transition-colors"
                     >
-                      contact@sheveyinterior.com
-                    </a>
+                      Tijanishrif@gmail.com                    </a>
                   </div>
                 </div>
 
@@ -408,10 +407,10 @@ const Home = () => {
                   <div>
                     <h4 className="font-semibold mb-1 text-foreground">Phone</h4>
                     <a
-                      href="tel:+15551234567"
+                      href="tel:+234 818 101 3866"
                       className="text-muted-foreground hover:text-accent transition-colors"
                     >
-                      +1 (555) 123-4567
+                      +234 818 101 3866
                     </a>
                   </div>
                 </div>
@@ -430,12 +429,20 @@ const Home = () => {
                         Instagram
                       </a>
                       <a
-                        href="https://pinterest.com"
+                        href="https://instagram.com"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="block text-muted-foreground hover:text-accent transition-colors"
                       >
-                        Pinterest
+                        Facebook
+                      </a>
+                      <a
+                        href="https://wa.me/message/YXLRHHQVNQFAE1"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="block text-muted-foreground hover:text-accent transition-colors"
+                      >
+                      Whatsapp
                       </a>
                     </div>
                   </div>
