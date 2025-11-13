@@ -28,7 +28,7 @@ const Navigation = () => {
             onClick={() => scrollToSection("home")}
             className="text-2xl font-serif font-semibold gold-accent cursor-pointer"
           >
-            Shevey Interior Deco
+            Shevey Interior Design
           </button>
 
           {/* Desktop Navigation */}
